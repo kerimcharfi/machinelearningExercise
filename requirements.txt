@@ -1,0 +1,12 @@
+numpy
+pandas
+ipython
+matplotlib
+seaborn
+pyarrow
+scikit-learn
+xgboost
+lime
+shap
+torch
+pytorch-forecasting
